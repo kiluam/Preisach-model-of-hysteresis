@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479399724 source:c:\users\20064915\documents\c++ programs\hello world\preisach\preisach.cpp
+	<iostream>
+	<vector>
+	<string>
+
